@@ -1,47 +1,47 @@
-# [:hammer_and_wrench: Working..] CrudAngularSpring
+# [:hammer_and_wrench: Working..] GPA Calculator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/crud-angular-spring?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/crud-angular-spring?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/joabehenrique/crud-angular-spring?style=flat)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/crud-angular-spring?style=flat)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/crud-angular-spring?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/gpa-calculator?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/gpa-calculator?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/joabehenrique/gpa-calculator?style=flat)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/gpa-calculator?style=flat)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/gpa-calculator?style=flat)
 
-> Simple project developed ...
+> Project developed in the Coding with John course track
 
 ## 💻 Requirements
 
 Before you begin, make sure you have met the following requirements:
 
-- You need the latest version of `...` on your machine.
+- You need the latest version of `Java` on your machine.
 
-If you need installation instructions, [click here]("...").
+If you need installation instructions, [click here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 
-## 🚀 Installing CrudAngularSpring
+## 🚀 Installing GPA Calculator
 
-To install CrudAngularSpring, follow these steps:
+To install GPA Calculator, follow these steps:
 
 1º Clone the repository.
 
 ```
->  git clone https://github.com/joabehenrique/crud-angular-spring.git
+>  git clone https://github.com/joabehenrique/gpa-calculator.git
 ```
 
-## ☕ Using CrudAngularSpring
+## ☕ Using GPA Calculator
 
-To use CrudAngularSpring, follow these steps:
+To use GPA Calculator, follow these steps:
 
 ```
 >
 ```
 
-## 📫 Contributing to CrudAngularSpring
+## 📫 Contributing to GPA Calculator
 
-To contribute to CrudAngularSpring, follow these steps:
+To contribute to GPA Calculator, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Send to the original branch: `git push origin CrudAngularSpring / <local>`
+4. Send to the original branch: `git push origin GPA Calculator / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)..
@@ -65,10 +65,8 @@ We thank the following people who contributed to this project:
 
 ## 😄 Be one of the contributors<br>
 
-Do you want to be part of this project? Click [here](https://github.com/joabehenrique/crud-angular-spring/blob/master/CONTRIBUTING.md) and read how to contribute.
+Do you want to be part of this project? Click [here](https://github.com/joabehenrique/gpa-calculator/blob/master/CONTRIBUTING.md) and read how to contribute.
 
 ## 📝 License
 
-This project is under license. See the [license](https://github.com/joabehenrique/crud-angular-spring/blob/master/LICENSE.md) file for more details.
-
-[⬆ Back to top](#CrudAngularSpring)<br>
+This project is under license. See the [license](https://github.com/joabehenrique/gpa-calculator/blob/master/LICENSE.md) file for more details.
